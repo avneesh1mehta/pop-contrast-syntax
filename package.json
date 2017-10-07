@@ -1,0 +1,15 @@
+{
+  "name": "pop-contrast-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "For a 'bit' of contrast",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/pop-contrast-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
