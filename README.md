@@ -1,7 +1,7 @@
-Pop Theme:
+# Pop Contrast Atom Syntax Theme:
 
 Made for those who need a "bit" of contrast in their lives.
 
-Note: This theme was designed for use in conjunction with the One Dark UI theme.
+![](./example.png?raw=true "Optional Title")
 
-Avneesh Mehta
+##### Note: This theme was designed for use in conjunction with the One Dark UI theme.
